@@ -413,7 +413,6 @@ We thank the following resources and communities:
 For questions, suggestions, or collaborations:
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/MIKUAFANS/scLLM-DSC/issues)
-- **GitHub Discussions**: [Ask questions or share ideas](https://github.com/MIKUAFANS/scLLM-DSC/discussions)
 - **Email**: xuping0098@gmail.com
 
 ---
