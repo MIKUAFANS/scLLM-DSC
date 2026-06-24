@@ -467,9 +467,9 @@ If you find this work useful, please consider starring ⭐ the repository!
 
 **Note**: This is research code accompanying the IJCAI 2026 paper. For production use or commercial applications, please contact the authors.
 
----
+<!-- ---
 
 <p align="center">
   <b>Made with ❤️ by the scLLM-DSC Team</b><br>
   <sub>Advancing interpretable single-cell analysis through knowledge-enhanced AI</sub>
-</p>
+</p> -->
